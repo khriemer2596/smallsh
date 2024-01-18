@@ -17,7 +17,7 @@ make smallsh
 
 This will compile smallsh.c into an executable file called smallsh.exe.
 
-Now you are ready to run the program by typing the following commanding and
+Now you are ready to run the program by typing the following command and
 hitting enter:
 
 ```
