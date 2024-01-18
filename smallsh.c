@@ -1,6 +1,5 @@
 // Name: Kevin Riemer
-// Assignment: CS 344 - Smallsh
-// Date: 11/1/2023
+// Smallsh
 
 #define _POSIX_C_SOURCE 200809L
 #define _GNU_SOURCE
