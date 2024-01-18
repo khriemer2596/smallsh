@@ -9,7 +9,7 @@ signal handler.
 To get started, download or clone the files onto your computer. Next, open a bash
 terminal and navigate to the directory where the files are saved. 
 
-In the directory type the following command and hit enter:
+In the directory, type the following command and hit enter:
 
 ```
 make smallsh
