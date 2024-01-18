@@ -25,7 +25,13 @@ hitting enter:
 ```
 
 While smallsh is running, feel free to experiment with basic commands you might
-use in a regular bash terminal. Where you are ready to exit the program, type
+use in a regular bash terminal. Smallsh is able to perform typical open/read/write file
+operations as you would expect in bash. You can create parent/child processes
+for more advanced operations. Smallsh is also equipped to retrieve standard PATH variables
+and display them for you. Feel free to experiment with keyboard signals while Smallsh is
+running. Take notice which ones are ignored by the custom signal handler!
+
+Where you are ready to exit the program, type
 the following command and hit enter:
 
 ```
