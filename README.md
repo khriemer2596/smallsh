@@ -3,7 +3,7 @@ Small Shell Project
 
 This program is a fully functional terminal shell that can be run at the command line.
 It includes a couple built-in commands, file redirection, as well as managing 
-background and foreground parent/child processes. It also encorporates a custom
+background and foreground parent/child processes. It also incorporates a custom
 signal handler.
 
 To get started, download or clone the files onto your computer. Next, open a bash
